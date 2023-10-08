@@ -10,7 +10,7 @@ This Weather App is a simple yet powerful mobile application built using the Flu
 ```bash
 git clone https://github.com/yourusername/weather_app_flutter_bloc.git
 cd weather_app_flutter_bloc
-
+'''
 ### Install Dependencies
 Ensure that you have Flutter and Dart installed on your machine. If not, follow the official Flutter installation guide to get set up.
 
